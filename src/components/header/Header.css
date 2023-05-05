@@ -1,0 +1,15 @@
+.header {
+    height: 60px;
+}
+
+li {
+    font-weight: 600;
+}
+
+a {
+    font-weight: 600;
+}
+
+dropdown-item {
+    font-weight: 800;
+}

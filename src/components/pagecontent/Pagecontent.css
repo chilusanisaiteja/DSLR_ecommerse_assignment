@@ -1,0 +1,48 @@
+.pagecontent {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    overflow-y: auto;
+    width: 100vw;
+    justify-content: space-around;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 20px;
+    border: none;
+    height: 70%;
+}
+
+.amount {
+    display: flex;
+
+}
+
+.mrp {
+    margin-left: 10px;
+    color: rgb(100, 97, 97);
+    text-decoration: line-through;
+    font-weight: 400;
+}
+
+.card-title {
+    font-size: medium;
+    font-weight: 700;
+}
+
+.percent {
+    color: red;
+    margin-left: 10px;
+}
+
+img {
+    height: 60%;
+}
+
+.card:hover {
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 5px 5px 15px 5px #000000;
+}

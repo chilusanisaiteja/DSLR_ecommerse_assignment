@@ -1,0 +1,57 @@
+.cardpage {
+    width: 100%;
+}
+
+
+button {
+    width: 50%;
+    font-weight: bold;
+}
+
+.card {
+    max-width: "540px";
+}
+
+.image2 {
+    height: 100%;
+}
+
+.card-Qty {
+    font-weight: 600;
+}
+
+.avai {
+    color: rgb(20, 155, 155)
+}
+
+.avai2 {
+    color: brown;
+}
+
+.icons {
+    color: red;
+}
+
+.bt {
+    width: 25px;
+    font-size: 20px;
+    color: rgb(226, 131, 43);
+    border: none;
+    background-color: white;
+}
+
+.icon1 {
+    margin-right: 5%;
+}
+
+.icon1:hover {
+    color: brown
+}
+
+.icon2:hover {
+    color: brown
+}
+
+.icon2 {
+    margin-right: 5%;
+}
